@@ -1,0 +1,19 @@
+{
+  "name": "theblaze-newsletter-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxgironcodes/theblaze-newsletter-content.git"
+  },
+  "author": "Max Giron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxgironcodes/theblaze-newsletter-content/issues"
+  },
+  "homepage": "https://github.com/maxgironcodes/theblaze-newsletter-content#readme"
+}
